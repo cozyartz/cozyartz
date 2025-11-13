@@ -63,7 +63,6 @@ Digital directory meets real-world geogame—mapping local businesses, parks, an
 [![CutGlueBuild](https://img.shields.io/badge/CutGlueBuild-Maker_Platform-41C6BA?style=flat-square)](https://cutgluebuild.com/)  
 [![Spamidate](https://img.shields.io/badge/Spamidate-Spam_Detection-41C6BA?style=flat-square)](https://spamidate.com)  
 [![TechFlunky](https://img.shields.io/badge/TechFlunky-Multi_SaaS-41C6BA?style=flat-square)](https://techflunky.com/)  
-[![Queerlyqualified](https://img.shields.io/badge/Queerlyqualified-Personal_Brand-41C6BA?style=flat-square)](https://queerlyqualified.com/)
 
 ---
 
