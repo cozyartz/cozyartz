@@ -2,7 +2,7 @@
 
 **<span style="color: #41C6BA">Commercial Drone Pilot</span> | <span style="color: #41C6BA">Ham Radio Operator</span> | <span style="color: #41C6BA">Makerspace Founder</span> | <span style="color: #41C6BA">Indie SaaS Engineer</span>**
 
-Founder, Cozyartz Media Group · Miami, Michigan
+Founder, Cozyartz Media Group · Battle Creek, Michigan
 
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Powered-41C6BA?logo=cloudflare&logoColor=white)](https://www.cloudflare.com)
 [![Ham Radio W8COZ](https://img.shields.io/badge/Ham%20Radio-W8COZ-41C6BA?logo=hackaday&logoColor=white)](https://www.qrz.com/db/W8COZ)
