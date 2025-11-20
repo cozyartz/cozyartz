@@ -1,6 +1,6 @@
 # Andrea Cozart-Lundin
 
-**<span style="color: #41C6BA">Commercial Drone Pilot</span> | <span style="color: #41C6BA">Ham Radio Operator</span> | <span style="color: #41C6BA">Makerspace Founder</span> | <span style="color: #41C6BA">Indie SaaS Engineer</span>**
+**<span style="color: #41C6BA">Commercial Drone Pilot</span> | <span style="color: #41C6BA">Ham Radio Operator</span> | <span style="color: #41C6BA">Makerspace Owner</span> | <span style="color: #41C6BA">Indie SaaS Engineer</span>**
 
 Founder, Cozyartz Media Group · Battle Creek, Michigan
 
